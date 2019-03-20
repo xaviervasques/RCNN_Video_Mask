@@ -4,6 +4,7 @@ Mask R-CNN for object detection in videos
 # Installation
 
   git clone https://github.com/xaviervasques/RCNN_Video_Mask.git
+  
   git clone https://github.com/xaviervasques/Mask_RCNN.git
 
 Go to Mask_RCNN folder and install dependencies: 
@@ -31,6 +32,13 @@ To run the code:
   python3 Make_video.py
   
  Find the output in the "videos" folder
+ 
+ Sources
+ 
+ https://github.com/xaviervasques/colab-mask-rcnn.git
+ 
+ https://github.com/xaviervasques/Mask_RCNN.git
+ 
 
 
 
