@@ -37,7 +37,7 @@ To run the code:
  
  Here is an exemple, driving in the Montpellier City (France): 
  
- ![](RCNN_Video_Mask/example.png)
+ ![](RCNN_Video_Mask/example.jpg)
  
  https://www.youtube.com/watch?v=Rw9nOIhVf9A
 
