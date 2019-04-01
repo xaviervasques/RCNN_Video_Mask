@@ -37,7 +37,7 @@ To run the code:
  
  Here is an exemple, driving in the Montpellier City (France): 
  
- ![Screenshot 2019-04-01 at 19.42.08](RCNN_Video_Mask/Screenshot 2019-04-01 at 19.42.08.png)
+ ![example](RCNN_Video_Mask/example.png)
  
  https://www.youtube.com/watch?v=Rw9nOIhVf9A
 
