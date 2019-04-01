@@ -39,7 +39,7 @@ To run the code:
  
  https://www.youtube.com/watch?v=Rw9nOIhVf9A
  
- ![alt text](https://github.com/xaviervasques/RCNN_Video_Mask/Screenshot 2019-04-01 at 19.42.08.png)
+    ![alt text](https://github.com/xaviervasques/RCNN_Video_Mask/Screenshot 2019-04-01 at 19.42.08.png)
       
  Sources
  
