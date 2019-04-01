@@ -35,6 +35,11 @@ To run the code:
   
  Find the output in the "videos" folder
  
+ Here is an exemple, driving in the Montpellier City (France): 
+ 
+ https://www.youtube.com/watch?v=Rw9nOIhVf9A
+ 
+ 
  Sources
  
  https://github.com/xaviervasques/colab-mask-rcnn.git
